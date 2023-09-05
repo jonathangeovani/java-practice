@@ -8,7 +8,7 @@ public class Main {
         int age = scanner.nextInt();
 
         if (age >= 75) {
-            System.out.println("You are a Boomer!");
+            System.out.println("Ok Boomer!");
         } else if (age >= 18) {
             System.out.println("You are an Adult!");
         } else {
